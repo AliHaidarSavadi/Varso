@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Varso/static/css/main.f53f05fc.css",
+    "main.js": "/Varso/static/js/main.6f1ba2a7.js",
+    "index.html": "/Varso/index.html",
+    "main.f53f05fc.css.map": "/Varso/static/css/main.f53f05fc.css.map",
+    "main.6f1ba2a7.js.map": "/Varso/static/js/main.6f1ba2a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f53f05fc.css",
+    "static/js/main.6f1ba2a7.js"
+  ]
+}
